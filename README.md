@@ -1,27 +1,24 @@
-# Hitman Statistics
+# HitmanStatistics
+
 Hitman 2 and Hitman Contracts real-time statistics tracker.
 
 ## Features
-- Silent Assassin rating
-- Current mission name & number
-- Timer with 3 decimals
+
+**Here are features of HitmanStastics**
+
 - Shots fired
 - Close encounters
-- Headshots
+- Headshot count
 - Alerts
-- Enemies killed
-- Enemies harmed
-- Innocents killed
-- Innocents harmed
+- Kill count
+- Harm count
+- Innocent kill count
+- Innocent harm count
+- Hitman Contracts analytics
+- Hitman Silent Assassin Analytics
 
-## How to use
-Run the program while playing the game, during a mission all values will be updated automatically.
+Download [HitmanStatistics](https://github.com/enginestein/HitmanStatistics/releases/tag/v1.0.0)
 
-## Screenshot
-![Screenshot](http://i.imgur.com/jJh3kcj.png "Screenshot")
+# Screenshot
 
-## Credits
-Original Trainer class by Cless.
-
-## Licence
-[MIT License](https://github.com/nvillemin/HitmanStatistics/blob/master/LICENSE.txt)
+![Screenshot 2023-07-02 195606](https://github.com/enginestein/HitmanStatistics/assets/117010357/f66eccef-fc80-49fe-9682-628a3b921bda)
