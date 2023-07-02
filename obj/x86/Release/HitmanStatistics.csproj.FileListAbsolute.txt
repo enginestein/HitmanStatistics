@@ -1,0 +1,16 @@
+C:\Main\Projects\C#\HitmanStatistics\bin\Release\HitmanStatistics.exe.config
+C:\Main\Projects\C#\HitmanStatistics\bin\Release\HitmanStatistics.exe.manifest
+C:\Main\Projects\C#\HitmanStatistics\bin\Release\HitmanStatistics.application
+C:\Main\Projects\C#\HitmanStatistics\bin\Release\HitmanStatistics.exe
+C:\Main\Projects\C#\HitmanStatistics\bin\Release\HitmanStatistics.pdb
+C:\Main\Projects\C#\HitmanStatistics\obj\x86\Release\HitmanStatistics.csproj.AssemblyReference.cache
+C:\Main\Projects\C#\HitmanStatistics\obj\x86\Release\HitmanStatistics.csproj.SuggestedBindingRedirects.cache
+C:\Main\Projects\C#\HitmanStatistics\obj\x86\Release\HitmanStatistics.FormMain.resources
+C:\Main\Projects\C#\HitmanStatistics\obj\x86\Release\HitmanStatistics.Properties.Resources.resources
+C:\Main\Projects\C#\HitmanStatistics\obj\x86\Release\HitmanStatistics.csproj.GenerateResource.cache
+C:\Main\Projects\C#\HitmanStatistics\obj\x86\Release\HitmanStatistics.csproj.CoreCompileInputs.cache
+C:\Main\Projects\C#\HitmanStatistics\obj\x86\Release\HitmanStatistics.TrustInfo.xml
+C:\Main\Projects\C#\HitmanStatistics\obj\x86\Release\HitmanStatistics.exe.manifest
+C:\Main\Projects\C#\HitmanStatistics\obj\x86\Release\HitmanStatistics.application
+C:\Main\Projects\C#\HitmanStatistics\obj\x86\Release\HitmanStatistics.exe
+C:\Main\Projects\C#\HitmanStatistics\obj\x86\Release\HitmanStatistics.pdb
