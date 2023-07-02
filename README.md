@@ -1,10 +1,10 @@
-# HitmanStatistics
+# Hitman Statistics
 
-Hitman 2 and Hitman Contracts real-time statistics tracker.
+Hitman Statistics is a real-time tracker for Hitman 2 and Hitman Contracts.
 
 ## Features
 
-**Here are features of HitmanStastics**
+Here are the features of Hitman Statistics:
 
 - Shots fired
 - Close encounters
@@ -17,7 +17,7 @@ Hitman 2 and Hitman Contracts real-time statistics tracker.
 - Hitman Contracts analytics
 - Hitman Silent Assassin Analytics
 
-Download [HitmanStatistics](https://github.com/enginestein/HitmanStatistics/releases/tag/v1.0.0)
+Download [Hitman Statistics](https://github.com/enginestein/HitmanStatistics/releases/tag/v1.0.0)
 
 # Screenshot
 
